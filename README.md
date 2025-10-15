@@ -23,6 +23,7 @@ Welcome! This portfolio highlights professional writing samples across **reports
 
 ### Presentations
 - **E-waste and Its Environmental Impact (Slides)** — <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c783c3bf-a08c-45fc-8b64-f8d2008b7040" />
+[4.2 E-Waste and Its Environmental Impact (1).pptx](https://github.com/user-attachments/files/22919327/4.2.E-Waste.and.Its.Environmental.Impact.1.pptx)
 
 
 ## Contact
