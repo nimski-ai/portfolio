@@ -21,7 +21,8 @@ Welcome! This portfolio highlights professional writing samples across **reports
 - **Orange Production Visuals (2017–2021)** — [View PDF](docs/visuals/orange-production-visuals.pdf)
 
 ### Presentations
-- **E-waste and Its Environmental Impact (Slides)** — [View pptx]( )[4.2 E-Waste and Its Environmental Impact (1).pptx](https://github.com/user-attachments/files/22918969/4.2.E-Waste.and.Its.Environmental.Impact.1.pptx)
+- **E-waste and Its Environmental Impact (Slides)** — <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c783c3bf-a08c-45fc-8b64-f8d2008b7040" />
+
 
 ## Contact
 - Email: ndustepho91@yahoo.com
